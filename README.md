@@ -18,3 +18,7 @@ The data presented to us comes from the [HAR dataset](https://archive.ics.uci.ed
 1. **Clone this repo** or download the files.
 2. **Source** the "run_analysis.R" script in R or RStudio.
 3. **Look for the tidy dataset** output "tidy_dataset.txt" in the project folder.
+
+## Additional information:
+
+More detailed steps are presented as comments in the "run_analysis.R" script file.

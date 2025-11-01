@@ -10,7 +10,7 @@ The data presented to us comes from the [HAR dataset](https://archive.ics.uci.ed
 
 - **CodeBook.md**: describes the variables, the data, and any transformations or work that we performed to clean up the data.
 - **run_analysis.R**: our R script.
-- **tidy_data.txt**: the tidy dataset output, containing the average of each variable for each activity and each subject in the research.
+- **tidy_dataset.txt**: the tidy dataset output, containing the average of each variable for each activity and each subject in the research.
 - **README.md**: this file.
 
 ## How to run:
